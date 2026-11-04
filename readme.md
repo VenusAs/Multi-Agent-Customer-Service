@@ -5,6 +5,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+<img width="1858" height="826" alt="image" src="https://github.com/user-attachments/assets/6c3962b7-9b0a-4975-a81d-c1a8f9631a68" />
+
+<p align="center">多 Agent 路由与 HITL 审批界面演示</p>
+
+
 基于 **LangGraph + LangChain + Chroma** 构建的企业级多 Agent 智能客服系统。本项目实现了从“意图路由”到“RAG 检索”，再到“高危操作人工审批（HITL）”的完整业务闭环，并配有 Streamlit 交互界面。
 
 ## 📖 目录
