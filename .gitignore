@@ -1,0 +1,33 @@
+# 环境变量
+.env
+.env.*
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+dist/
+
+# 向量库本地缓存（太占空间，让别人自己建）
+chroma_db*/
+*.sqlite
+*.db
+
+# 本地生成的文件
+logs/
+report_*/
+checkpoints.sqlite
+report.md
+evaluation_result.json
+test/
+checkpoint_memory_interrupt/
+
+# 其他
+.DS_Store
+.idea/
+.vscode/
+*.ipynb
